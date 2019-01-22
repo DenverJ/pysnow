@@ -35,6 +35,8 @@ Also, the ``Response`` interface has been further improved and now allows chaini
     incident.upload(file_path='/tmp/last_words.txt')
     incident.update({'description': 'Bye bye'})
     incident.delete()
+    
+    TEST
 
 Additionally, generator / streamed responses are now default off, but can be easily enabled by passing stream=True to ``Resource.get`` for those memory-intensive queries.
 
