@@ -43,6 +43,8 @@ Furthermore, I've decided to **remove legacy parts of the library**, which has b
 Documentation
 -------------
 
+test
+
 The `documentation <http://pysnow.readthedocs.org/>`_ is divided into four sections:
 
 - `General <http://pysnow.readthedocs.io/en/latest/#general>`_ (install, compatibility etc)
